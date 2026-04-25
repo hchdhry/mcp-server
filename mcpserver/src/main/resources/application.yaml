@@ -11,4 +11,4 @@ spring:
         type: sync
 
 aviationstack:
-  api-key: test
+  api-key: test1
