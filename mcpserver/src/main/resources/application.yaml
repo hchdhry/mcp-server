@@ -9,3 +9,6 @@ spring:
         protocol: streamable
         stdio: false
         type: sync
+
+aviationstack:
+  api-key: test
